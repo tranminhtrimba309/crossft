@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" version="1.0.0" id="tw.edu.nfu.eZTravel">
+
+<!-- versionCode is optional and Android only -->
+
+
+<name>tranminhtri</name>
+
+<description>fucking shit </description>
+
+<author email="yflan@nfu.edu.tw" href="https://www.roguefitness.com">alex </author>
+
+<content src="index.html"/>
+
+
+<platform name="android">
+
+<icon src="res/asd.jpg"/>
+
+<icon src="res/android/asd.jpg" density="ldpi"/>
+
+<icon src="res/android/asd.jpg" density="mdpi"/>
+
+<icon src="res/android/asd.jpg" density="hdpi"/>
+
+<icon src="res/android/asd.jpg" density="xhdpi"/>
+
+</platform>
+
+</widget>
